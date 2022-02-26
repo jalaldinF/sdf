@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout-land/activity_vision_camerax_live_preview.xml" value="0.14739583333333334" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout-land/activity_vision_cameraxsource_demo.xml" value="0.14739583333333334" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout-land/activity_vision_live_preview.xml" value="0.14739583333333334" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout/activity_chooser.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout/activity_settings.xml" value="0.12817028985507245" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout/activity_still_image.xml" value="0.12817028985507245" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout/activity_vision_camerax_live_preview.xml" value="0.12817028985507245" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout/activity_vision_cameraxsource_demo.xml" value="0.176" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout/activity_vision_entry_choice.xml" value="0.12817028985507245" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout/activity_vision_live_preview.xml" value="0.12817028985507245" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout/settings_style.xml" value="0.12817028985507245" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout/spinner_style.xml" value="0.12817028985507245" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/layout/toggle_style.xml" value="0.12817028985507245" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/menu/camera_button_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/xml/preference_live_preview_quickstart.xml" value="0.12817028985507245" />
+        <entry key="..\:/AndroidStudio/Github Projects/mlkit-master/android/vision-quickstart/app/src/main/res/xml/preference_still_image.xml" value="0.12817028985507245" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
